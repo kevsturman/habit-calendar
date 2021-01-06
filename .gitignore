@@ -1,0 +1,4 @@
+venv/
+pyfpdf/
+.vscode/
+__pycache__/
